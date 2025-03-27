@@ -8,5 +8,5 @@ may you become the greatest assassin!
 
 details of game 1:
 - location: our beloved university
-- time: from monday, march 31st, when you pick up your "weapon" to friday, april 4th at 4pm
+- time: from monday, march 31st when you receive your target, to friday, april 4th at 4pm
 - players: you!!!
